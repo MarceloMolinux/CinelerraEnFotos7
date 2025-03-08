@@ -1,6 +1,6 @@
 # Cinelerra_en_fotos7  (the English version can be found below.)
 
-Este programa, (**'Cinelerra_en_fotos7.jar'**), escrito en Kotlin, tiene el propósito de procesar un archivo de proyecto de **'Cinelerra GG'** (diapositivas y música), para obtener un nuevo proyecto, en el cual las transiciones entre diapositivas estén sincronizadas con la música. Luego, este nuevo proyecto debe ser cargado en Cinelerra GG y renderizado.
+Este programa, (**'Cinelerra_en_fotos7.kt'**), escrito en Kotlin, tiene el propósito de procesar un archivo de proyecto de **'Cinelerra GG'** (diapositivas y música), para obtener un nuevo proyecto, en el cual las transiciones entre diapositivas estén sincronizadas con la música. Luego, este nuevo proyecto debe ser cargado en Cinelerra GG y renderizado.
 
 Nota: Inspirado en un script publicado por Michal Fapso en http://michalfapso.blogspot.com/2010/12/how-to-create-photo-slideshow.html
 
