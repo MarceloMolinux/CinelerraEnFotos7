@@ -59,7 +59,7 @@ kotlin 2.1.0-release-394
 
 # Cinelerra_en_fotos7 (English version)
 
-This program, (**'Cinelerra_en_fotos7.jar'**), written in Kotlin, is designed to process a **'Cinelerra GG'** project file (slides and music) to create a new project in which slide transitions are synchronized with the music. Then, this new project must be loaded into Cinelerra GG and rendered.
+This program, (**'Cinelerra_en_fotos7.kt'**), written in Kotlin, is designed to process a **'Cinelerra GG'** project file (slides and music) to create a new project in which slide transitions are synchronized with the music. Then, this new project must be loaded into Cinelerra GG and rendered.
 
 Note: Inspired by a script published by Michal Fapso at http://michalfapso.blogspot.com/2010/12/how-to-create-photo-slideshow.html
 
